@@ -1,4 +1,9 @@
 # EOS WebSocket
+## ⚠️DEPRECATED ⚠️
+
+> Library is now being maintained at https://github.com/dfuse-io/eosws-js
+
+> Go to https://www.dfuse.io and click on `"Get a Free API Key"`
 
 ## EOSWS Servers
 
