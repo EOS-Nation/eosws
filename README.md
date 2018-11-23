@@ -9,11 +9,11 @@
 
 **Mainnet**
 
--   `wss://eosws.mainnet.eoscanada.com/v1/stream?token=[API TOKEN]`
+-   `wss://mainnet.eos.dfuse.io/v1/stream?token=[API TOKEN]`
 
 **Kylin**
 
--   `wss://eosws.kylin.eoscanada.com/v1/stream?token=[API TOKEN]`
+-   `wss://kylin.eos.dfuse.io/v1/stream?token=[API TOKEN]`
 
 ## Install
 
